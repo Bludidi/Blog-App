@@ -6,5 +6,9 @@ class CreateLike < ActiveRecord::Migration[7.0]
 
       t.timestamps
     end
+    add_foreign_key :likes, :users, column: :AuthorId, primary_key: :id
+    add_index :likes, :AuthorId
+    add_foreign_key :likes, :posts, column: :PostId, primary_key: :id
+    add_index :likes, :PostId
   end
 end
