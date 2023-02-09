@@ -42,7 +42,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[Make post]**
+- **[Make posts]**
 - **[Make comments]**
 - **[Make likes]**
 
@@ -64,7 +64,6 @@ In order to run this project you need:
 
 - Ruby
 - Ruby on Rails
-- Gitflow
 
 <!--
 Example command:
@@ -185,15 +184,6 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[What is the main objective of this branch?]**
-
-  - [Construction of different classes using RUBY]
-
-- **[What is the symbol for class inheritance]**
 
   - ["<" sign. on the left hand side the derived class name will appear and the parent classname will be placed on the right hand side.]
 
@@ -204,7 +194,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
